@@ -7,7 +7,7 @@ import { ArrowRight, PlayCircle } from "lucide-react";
 
 export function Hero() {
     return (
-        <Section className="relative bg-[#f8fafc] text-neutral-950 overflow-hidden min-h-[90vh] flex flex-col justify-center pt-32 pb-20">
+        <Section className="relative bg-[#f8fafc] text-neutral-950 overflow-hidden min-h-[90vh] flex flex-col justify-center pt-24 md:pt-32 pb-20">
             {/* Background Effects */}
             <div className="absolute inset-0 z-0 pointer-events-none select-none">
                 {/* Noise Texture - Inverted for Light Mode */}
@@ -26,16 +26,16 @@ export function Hero() {
                     </div>
 
                     {/* Main Headline */}
-                    <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.1] text-neutral-900 mb-8">
+                    <h1 className="font-display text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.1] text-neutral-900 mb-8">
                         <span className="inline md:block">
                             Estratégia e stack
-                        </span>
+                        </span>{' '}
                         <span className="inline md:block">
                             para <span className="text-orange-600">marcas próprias</span>
-                        </span>
+                        </span>{' '}
                         <span className="inline md:block">
                             crescerem com
-                        </span>
+                        </span>{' '}
                         <span className="inline md:block">
                             previsibilidade.
                         </span>

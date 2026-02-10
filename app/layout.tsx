@@ -17,6 +17,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "Steeda Performa | Consultoria e Implementação para Marcas Próprias",
   description: "Estratégia, stack (pilha de tecnologia) e rotina de performance para marcas próprias crescerem no digital com previsibilidade. Agende um diagnóstico gratuito.",
   keywords: [

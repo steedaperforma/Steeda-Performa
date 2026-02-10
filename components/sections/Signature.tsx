@@ -19,10 +19,10 @@ export function Signature() {
                         "font-display text-3xl md:text-4xl lg:text-5xl font-bold leading-tight tracking-tight",
                         "transition-all duration-500 ease-out group-hover:scale-[1.01]"
                     )}>
-                        <span className="inline text-transparent bg-clip-text bg-gradient-to-b from-ink to-ink/70 mb-2">
+                        <span className="block text-transparent bg-clip-text bg-gradient-to-b from-ink to-ink/70 mb-2 md:inline">
                             "Crescimento digital não é ter um canal.{" "}
                         </span>
-                        <span className="inline bg-clip-text text-transparent bg-gradient-to-r from-[#ff4800] via-[#ff6b00] to-[#ff8c42] animate-shimmer bg-[length:200%_auto]">
+                        <span className="block bg-clip-text text-transparent bg-gradient-to-r from-[#ff4800] via-[#ff6b00] to-[#ff8c42] animate-shimmer bg-[length:200%_auto] md:inline">
                             É ter uma operação conectada com processo, dados e rotina de performance."
                         </span>
                     </h2>

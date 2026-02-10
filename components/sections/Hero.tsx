@@ -26,7 +26,7 @@ export function Hero() {
                     </div>
 
                     {/* Main Headline */}
-                    <h1 className="font-display text-[2.5rem] sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-[1.1] text-neutral-900 mb-8 break-words">
+                    <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.1] text-neutral-900 mb-8 text-balance">
                         <span className="inline md:block">
                             Estratégia e stack
                         </span>{' '}

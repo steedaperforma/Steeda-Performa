@@ -106,7 +106,7 @@ export function MethodFabrica() {
 
                 <div className="mt-16 flex justify-center animate-fade-in-up" style={{ animationDelay: '0.9s' }}>
                     <a href="#contact">
-                        <Button size="lg" className="rounded-full h-14 px-12 text-lg font-bold shadow-xl shadow-primary/20 hover:scale-105 transition-transform duration-300">
+                        <Button size="lg" className="rounded-full h-14 px-6 md:px-12 text-base md:text-lg font-bold shadow-xl shadow-primary/20 hover:scale-105 transition-transform duration-300">
                             Quero aplicar na minha operação
                         </Button>
                     </a>

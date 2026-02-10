@@ -46,7 +46,11 @@ export function Header() {
         >
             <Container>
                 <div className="flex items-center justify-between">
-                    <Link href="/" className="flex items-center gap-2">
+                    <Link
+                        href="/"
+                        className="flex items-center gap-2"
+                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                    >
                         <img
                             src="/logo.svg"
                             alt="Steeda Performa"

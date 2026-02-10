@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 572.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="84.74" y="122.46" width="910.52" height="327.79"/>
+    </clipPath>
+  </defs>
+  <image width="1280" height="461" transform="translate(25.5 103.17) scale(.8)" xlink:href="../../Site Performa/VTEX_Logo.svg.png"/>
+</svg>

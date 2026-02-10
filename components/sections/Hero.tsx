@@ -27,16 +27,16 @@ export function Hero() {
 
                     {/* Main Headline */}
                     <h1 className="font-display text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight leading-[1.1] text-neutral-900 mb-8">
-                        <span className="block">
+                        <span className="inline md:block">
                             Estratégia e stack
                         </span>
-                        <span className="block">
+                        <span className="inline md:block">
                             para <span className="text-orange-600">marcas próprias</span>
                         </span>
-                        <span className="block">
+                        <span className="inline md:block">
                             crescerem com
                         </span>
-                        <span className="block">
+                        <span className="inline md:block">
                             previsibilidade.
                         </span>
                     </h1>

@@ -15,7 +15,7 @@
 
 # next.js
 /.next/
-# /out/ - tracked for Hostinger static deployment via GitHub
+/out/
 
 # production
 /build
